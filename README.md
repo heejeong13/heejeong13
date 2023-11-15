@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<div align="center"  width="100%">
 
 <div width="50%">
   
