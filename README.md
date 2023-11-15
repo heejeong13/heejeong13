@@ -1,23 +1,14 @@
 ### Hi there 👋
 
 <div align="center">
-  
+
+<div width="50%">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejeong13&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejeong13&layout=compact)
-
 </div>
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=heejeong13&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heejeong13&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<div width="50%">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejeong13&layout=compact)
+</div>
+</div>
 
 <br/>  
 <!--
