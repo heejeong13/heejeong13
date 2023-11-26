@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=250&section=header&text=오늘도%20레벨%20업!✨&fontSize=60&fontAlign=65&fontAlignY=40&animation=fadeIn&desc=새로운%20도전과%20학습을%20즐기는%20개발자%20이희정입니다.&descSize=20&descAlign=65&descAlignY=60&fontColor=f7f5f5)
 
-<div align="center"><h3>✅어떤 일이든 배울 점이 있다고 생각하고, 내 것으로 만들어 활용하고자 합니다.</h3></div>
+<div align="center"><p style='font-weight: bold; font-size:20px;'>✅어떤 일이든 배울 점이 있다고 생각하고, 내 것으로 만들어 활용하고자 합니다.</p></div>
 
 ## ✏️ Education
 
