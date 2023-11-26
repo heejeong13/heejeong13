@@ -34,11 +34,11 @@
 
 ## 💻 Project
 
-`2023.05.08 ~ 2023.06.11` [사진을 인식하여 음성으로 알려주는 `My Memory`](https://github.com/heejeong13/bloom)<br>
+`2023.05.08 ~ 2023.06.11` 사진을 인식하여 음성으로 알려주는 `My Memory`[📎](https://github.com/heejeong13/bloom)<br>
 `2023.07.04 ~ 2023.08.18` 온라인 화상 토론 서비스 플랫폼 MFC<br>
-`2023.08.21 ~ 2023.10.06` [간편한 여행 정산 서비스 `Tally`](https://github.com/heejeong13/Tally)<br>
-`2023.09.01 ~ 2023.09.17` [임신, 육아 다이어리 및 우리 아이 적금 서비스 `FOR MY EGG`](https://github.com/heejeong13/For-My-Egg)<br>
-`2023.10.09 ~ 2023.11.17` [게임요소를 결합한 TODO 어플리케이션 `늘해랑`](https://github.com/heejeong13/Neulhaerang)<br>
+`2023.08.21 ~ 2023.10.06` 간편한 여행 정산 서비스 `Tally`[📎](https://github.com/heejeong13/Tally)<br>
+`2023.09.01 ~ 2023.09.17` 임신, 육아 다이어리 및 우리 아이 적금 서비스 `FOR MY EGG`[📎](https://github.com/heejeong13/For-My-Egg)<br>
+`2023.10.09 ~ 2023.11.17` 게임요소를 결합한 TODO 어플리케이션 `늘해랑`[📎](https://github.com/heejeong13/Neulhaerang)<br>
 
 ## 🏅 Award
 
@@ -48,8 +48,8 @@
 
 `2016.01 ~ 2016.12` 동의대학교 컴퓨터공학과 부학생회장<br>
 `2016.04 ~ 2016.12` 동의대학교 잡(JOB) 서포터즈<br>
-`2021.04 ~ 2021.12` 경기도 청년 기본소득 서포터즈<br>
-`2021.08 ~ 2022.02` 한국관광공사 근로자휴가지원사업 SNS 서포터즈<br>
+`2021.04 ~ 2021.12` 경기도 청년 기본소득 서포터즈[📎](https://blog.naver.com/PostList.naver?blogId=kosigi19&from=postList&categoryNo=6)<br>
+`2021.08 ~ 2022.02` 한국관광공사 근로자휴가지원사업 SNS 서포터즈[📎](https://blog.naver.com/PostList.naver?blogId=kosigi19&from=postList&categoryNo=8)<br>
 `2023.02 ~ 2023.12` 삼성 청년 SW 아카데미 기자단<br>
 
 ##
