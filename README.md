@@ -1,11 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheejeong13%2Fhit-counter&count_bg=%23845EC2&title_bg=%23B39CD0&icon=github.svg&icon_color=%23FFFFFF&title=HEELEE&edge_flat=false)](https://github.com/heejeong13)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=250&section=header&text=Welcome&fontSize=90&fontAlign=65&fontAlignY=40&animation=fadeIn&desc=heelee's%20GitHub&descSize=30&descAlign=75&descAlignY=60&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=250&section=header&text=오늘도%20레벨%20업!✨&fontSize=60&fontAlign=65&fontAlignY=40&animation=fadeIn&desc=새로운%20도전과%20학습을%20즐기는%20개발자%20이희정입니다.&descSize=20&descAlign=65&descAlignY=60&fontColor=f7f5f5)
 
-<h1> 오늘도 레벨 업!<br>
-새로운 도전과 학습을 즐기는 개발자👋</h1>
-
-<p>✅어떤 일이든 배울 점이 있다고 생각하고, 내 것으로 만들어 활용하고자 합니다.</p>
+### ✅어떤 일이든 배울 점이 있다고 생각하고, 내 것으로 만들어 활용하고자 합니다.
 
 ## ✏️ Education
 
@@ -54,6 +51,8 @@
 `2021.04 ~ 2021.12` 경기도 청년 기본소득 서포터즈<br>
 `2021.08 ~ 2022.02` 한국관광공사 근로자휴가지원사업 SNS 서포터즈<br>
 `2023.02 ~ 2023.12` 삼성 청년 SW 아카데미 기자단<br>
+
+##
 
 <!--
 
