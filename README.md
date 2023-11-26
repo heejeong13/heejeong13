@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheejeong13%2Fhit-counter&count_bg=%23845EC2&title_bg=%23B39CD0&icon=github.svg&icon_color=%23FFFFFF&title=HEELEE&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheejeong13%2Fhit-counter&count_bg=%23845EC2&title_bg=%23B39CD0&icon=github.svg&icon_color=%23FFFFFF&title=HEELEE&edge_flat=false)](https://github.com/heejeong13)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=250&section=header&text=Welcome&fontSize=90&fontAlign=65&fontAlignY=40&animation=fadeIn&desc=heelee's%20GitHub&descSize=30&descAlign=75&descAlignY=60&fontColor=f7f5f5)
 
