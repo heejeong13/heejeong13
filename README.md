@@ -35,7 +35,13 @@
 `2023.07` SQLD<br>
 `2023.09` OPIc Intermediate High - English<br>
 
-## Project
+## 💻 Project
+
+`2023.05.08 ~ 2023.06.11` [사진을 인식하여 음성으로 알려주는 `My Memory`](https://github.com/heejeong13/bloom)<br>
+`2023.07.04 ~ 2023.08.18` 온라인 화상 토론 서비스 플랫폼 MFC<br>
+`2023.08.14 ~ 2023.10.16` [간편한 여행 정산 서비스 `Tally`](https://github.com/heejeong13/Tally)<br>
+`2023.09.01 ~ 2023.09.17` [임신, 육아 다이어리 및 우리 아이 적금 서비스 `FOR MY EGG`](https://github.com/heejeong13/For-My-Egg)<br>
+`2023.10.09 ~ 2023.11.17` [게임요소를 결합한 TODO 어플리케이션 `늘해랑`](https://github.com/heejeong13/Neulhaerang)<br>
 
 ## 🏅 Award
 
