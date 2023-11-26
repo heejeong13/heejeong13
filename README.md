@@ -33,7 +33,9 @@
 `2020.01` 리눅스마스터 2급<br>
 `2020.02` ISTQB CTFL<br>
 `2023.07` SQLD<br>
-`2023.09` OPIc IH<br>
+`2023.09` OPIc Intermediate High - English<br>
+
+## Project
 
 ## 🏅 Award
 
